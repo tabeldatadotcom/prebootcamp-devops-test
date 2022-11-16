@@ -12,6 +12,20 @@
 
 Cara pengerjaan, silahkan update file ini tulis jawabanya di bawah ini
 
+## Jawaban 
+
+1. DevOps adalah sebuah culture untuk mengkoordinasikan antar tim, yaitu tim Development dengan tim Operations dengan efektif dan efisien.
+2. Infrastructure merupakan kumpulan komponen yang ditentukan oleh software dalam membentuk linkungan IT perusahaan.
+3. Server adalah pengelola sumber daya, karena sebuah server dapat melakukan penyimpanan, pengiriman, dan penerimaan data.
+    - Web Server : Apache
+    - Database Server : MySQL Databse, PosgreSQL
+4. Karena server menyediakan layanan penting yang dibutuhkan untuk pengembangan suatu software, antara lain : penyedia resource, pusat data dan backup data
+5. Virtualisasi dan Container :
+    - Virtualisasi : membagi resource hardware dari satu hardware fisik menjadi beberapa sistem komputer.
+    - Container : virtualisasi tingkat sistem operasi, karena hanya menyediakan kebutuhan minimum yang dibutuhkan sebuah aplikasi agar bisa berjalan.
+6. Teknologi Container begitu populer saat ini karena dapat memudahkan dalam mengembangkan suatu proyek, dengan adanya teknologi container ini kita tidak perlu repot melakukan konfigurasi, kita bisa melakukan deploy dengan teknologi container.
+7. Orchestration Container System adalah proses untuk mengelola penyebaran, integrasi, penskalaan, dan siklus hidup perangkat lunak dan aplikasi dalam container di lingkungan yang kompleks dan dinamis. Sebagai alat otomatisasi, Orchestration Container menganalisis, mengatur, dan mengintegrasikan aplikasi dan layanan di tingkat operasi dasar.
+
 ## Task 1 (Virtualization)
 
 - Buatlah sebuah VM dengan kententuan
